@@ -3,9 +3,7 @@
 
 #AUTHOR : Syed Ahmed shah(DEVIL)
 #OPEN SOURCE :)
-#DON'T FORGET TO GIVE CREDIT TO cradet Ahmed
-
-
+#Shah Wale here
 try:
 	import os,sys,time,platform,datetime,random,hashlib,re,threading,json,getpass,urllib,cookielib,requests,uuid,string,subprocess
 	from multiprocessing.pool import ThreadPool
@@ -83,7 +81,7 @@ def log_sel():
 	elif sel =="2" or sel =="02":
 		ex_id()
 	elif sel =="3" or sel =="03":
-		subprocess.check_output(["am", "start", https://www.facebook.com/lathiya.milna"])
+		subprocess.check_output(["am""start" "])
 		main()
 	elif sel =="4" or sel =="04" or sel =="J" or sel =="j":
 		os.system('xdg-open https://t.me/mrerrorgroup')
@@ -92,10 +90,9 @@ def log_sel():
 		import os
 		try:
 			os.system("git clone https://github.com/Devil-lov3/haris")
-			os.system("rm -rf Ahmed.py")
-			os.system("cp -f fcpro/fcpro.py \\.")
-			os.system("rm -rf fcpro")
-			print "\033[92;1m\n TOOL UPDATE SUCCESSFULFUL...>_<\n"
+			os.system("rm -rf devil")
+			os.system("cp -f haris/devil.py \\.
+                        print "\033[92;1m\n TOOL UPDATE SUCCESSFULFUL...>_<\n"
 			time.sleep(2)
 			main()
 		except KeyboardInterrupt:
