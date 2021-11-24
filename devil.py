@@ -81,7 +81,7 @@ def log_sel():
 	elif sel =="2" or sel =="02":
 		ex_id()
 	elif sel =="3" or sel =="03":
-		subprocess.check_output(["am""start" "])
+		
 		main()
 	elif sel =="4" or sel =="04" or sel =="J" or sel =="j":
 		os.system('xdg-open https://t.me/mrerrorgroup')
